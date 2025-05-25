@@ -1,0 +1,36 @@
+Rapport Création d'une portfolio
+
+Alex Mcivor
+Numéro d'étudent: 300377249
+GitHub repo: https://github.com/AlexMcIvor05/SEG3525-portfolio
+
+
+Mon expérience en javascript est limitée a mes projets scolaires qui peuvent être vues sur mon github : https://github.com/AlexMcIvor05. Lors du projet d'équipe dans le cours SEG 2900 et SEG 2105, ont avait besoin d'inclure du javascript dans notre code.
+
+J'ai suivi la première tutoriel (pas en temps réelle) et j'ai suivi les cours 1-3.
+
+
+Sites qui m'ont inspirées:
+
+1.
+https://brookallen.myportfolio.com/work
+-Je me suis inspiré du header de le site ci-dessus. J'aime le fait que le nom de l'auteur est toujours sur l'écran en haut au milieu. Le point d'un portfolio est de mettre ton nom dans la tête d'une client potentiel et d'être mémorable. 
+
+2.
+http://saraboyer.com/
+Le header prends beaucoup trop d'espace et est distrayant. Lorsque j'utilise le site je me sens que le contenue est beaucoup trop grande et comme résultat l'expérience du site est affecter. J'ai décidé que le contenue d emon site devrait être plus petite pour être mieux convenable a l'écran.
+
+3.
+
+
+
+
+Une description de vos choix de conception en matière de communication visuelle :
+a. Couleurs
+• Quelle palette avez-vous choisie et pourquoi ?
+b. Typographie
+• Quelles polices avez-vous choisies et pourquoi ?
+c. Disposition de l'écran
+• Décrivez votre disposition (layout) et la manière dont cela intègre les principes
+d'échelle, de hiérarchie visuelle, d'équilibre et de contraste (voir les vidéos
+NN/g)
