@@ -1,7 +1,7 @@
 body {
       background-color: #12121a;
       padding-top: 60px; /* Space for fixed header */
-      
+      font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     }
     .navbar {
       height: 60px;
