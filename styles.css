@@ -20,7 +20,7 @@ body {
   background-color: #1e1e2f !important;
     }
     
-    .center-brand {
+    .center-brand a {
   position: absolute;
   left: 50%;
   top: 50%;
@@ -33,7 +33,7 @@ body {
 
 
     /* New class to apply when scrolled */
-    .navbar.scrolled .center-brand {
+    .navbar.scrolled .center-brand a {
     color: #a9a9b8 ; 
     }
 
@@ -67,6 +67,10 @@ h3 {
   font-weight:bolder;
 
 }
+h2{
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
 
     a {
   color: #3aaacc;
@@ -74,7 +78,7 @@ h3 {
   text-decoration: none; 
     }
 
-    a:visited {
+  .custom-color a:visited {
   color: #a78bfa; /* after visiting the link */
 }
 

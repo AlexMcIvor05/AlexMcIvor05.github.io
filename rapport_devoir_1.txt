@@ -23,7 +23,8 @@ Le header prends beaucoup trop d'espace et est distrayant. Lorsque j'utilise le 
 3.
 
 
-
+interface: https://alexmcivor05.github.io/
+code boostrap: https://github.com/AlexMcIvor05/SEG3525-portfolio
 
 Une description de vos choix de conception en matière de communication visuelle :
 a. Couleurs
